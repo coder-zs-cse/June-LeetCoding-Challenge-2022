@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "filedirectory.h": "c",
+        "ostream": "cpp"
+    }
+}
